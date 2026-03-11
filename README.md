@@ -6,6 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yann--Erwann%20Le%20Calvez-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-erwann-le-calvez)
 
+![Profile views](https://komarev.com/ghpvc/?username=Yann-Erwann&style=flat-square&color=1f6feb)
+
 </div>
 
 ---
@@ -113,6 +115,12 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yann-Erwann&theme=github-dark&hide_border=true&locale=fr)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yann-Erwann&theme=github-compact&hide_border=true&area=true)](https://github.com/Yann-Erwann)
 
 </div>
 
