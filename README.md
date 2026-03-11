@@ -101,11 +101,14 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 
 ---
 
-## 🏆 Trophées
+## � Repères
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yann-Erwann&theme=darkhub&no-frame=true&row=1&column=6&count_private=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/Yann-Erwann)
+![Expérience](https://img.shields.io/badge/Expérience-20%2B%20ans-1f6feb?style=for-the-badge&logo=clockify&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions%20GitHub-857%2B-2da44e?style=for-the-badge&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Tech%20Lead%20%2F%20Architecture-f59e0b?style=for-the-badge&logo=dependabot&logoColor=white)
+![IA](https://img.shields.io/badge/IA-Intégration%20pragmatique-8b5cf6?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
