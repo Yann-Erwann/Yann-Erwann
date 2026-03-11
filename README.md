@@ -114,8 +114,6 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yann-Erwann&theme=github-dark&hide_border=true&locale=fr)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Yann-Erwann&theme=darkhub&no-frame=true&row=1&column=6)
-
 </div>
 
 ---
