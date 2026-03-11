@@ -105,7 +105,7 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yann-Erwann&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/Yann-Erwann)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yann-Erwann&theme=darkhub&no-frame=true&row=1&column=6&count_private=true&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/Yann-Erwann)
 
 </div>
 
@@ -130,7 +130,7 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yann-Erwann/Yann-Erwann/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yann-Erwann/Yann-Erwann/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Yann-Erwann/Yann-Erwann/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Yann-Erwann/Yann-Erwann/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
