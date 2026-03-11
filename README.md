@@ -112,10 +112,9 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yann-Erwann&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yann-Erwann&layout=compact&theme=github_dark&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yann-Erwann&theme=github-dark&hide_border=true&locale=fr)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Yann-Erwann&theme=darkhub&no-frame=true&row=1&column=6)
 
 </div>
 
