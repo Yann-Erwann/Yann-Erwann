@@ -1,20 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=header&text=Yann-Erwann%20Le%20Calvez&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Tech%20Lead%20%2F%20Lead%20Developer&descSize=16&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=160&section=header&text=Yann-Erwann%20Le%20Calvez&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Tech%20Lead%20%2F%20Lead%20Developer&descSize=18&descAlignY=62" width="100%" />
 
 <div align="center">
 
-# Yann-Erwann Le Calvez
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=Tech+Lead+%2F+Lead+Developer;Clean+Architecture+%7C+DevSecOps;20%2B+ans+d%27exp%C3%A9rience+en+IT;SaaS+%7C+Applications+m%C3%A9tiers+%7C+Modernisation+SI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=Tech+Lead+%2F+Lead+Developer;Clean+Architecture+%7C+DevSecOps;20%2B+ans+d%27exp%C3%A9rience+en+IT;SaaS+%7C+Applications+m%C3%A9tiers+%7C+Modernisation+SI)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yann--Erwann%20Le%20Calvez-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-erwann-le-calvez)
-
-![Profile views](https://komarev.com/ghpvc/?username=Yann-Erwann&style=flat-square&color=1f6feb)
+![Profile views](https://komarev.com/ghpvc/?username=Yann-Erwann&style=flat-square&color=1f6feb&label=Visites)
 
 </div>
 
 ---
 
-## À propos
+## 🦹 À propos
 
 Tech Lead avec **20+ ans d’expérience**, je conçois et structure des **solutions SaaS** et **applications métiers** pour digitaliser, automatiser et fiabiliser des processus opérationnels.
 
@@ -22,40 +19,26 @@ Mon périmètre couvre la conception applicative, l’architecture technique, le
 
 ---
 
-## Stack technique
+## 🛠️ Stack technique
 
 <div align="center">
 
-### Back-end
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Front-end
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### DevSecOps & Qualité
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux&theme=dark" />
 
 </div>
 
 ---
 
-## Expertises
+## 🎯 Expertises
 
 <div align="center">
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**Architecture & Conception**
+**🏗️ Architecture & Conception**
 - Architecture applicative multicouche
 - Solutions SaaS et applications métiers
 - Clean Architecture & microservices
@@ -66,7 +49,7 @@ Mon périmètre couvre la conception applicative, l’architecture technique, le
 </td>
 <td valign="top" width="50%">
 
-**Qualité & Industrialisation**
+**✅ Qualité & Industrialisation**
 - Stratégie de tests (unit, intégration, e2e)
 - Revues de code & maintenabilité
 - Réduction de la dette technique
@@ -79,7 +62,7 @@ Mon périmètre couvre la conception applicative, l’architecture technique, le
 <tr>
 <td valign="top" width="50%">
 
-**Domaines d’intervention**
+**💼 Domaines d’intervention**
 - Solutions SaaS B2B
 - Modernisation SI & digitalisation
 - Automatisation de flux métier
@@ -89,7 +72,7 @@ Mon périmètre couvre la conception applicative, l’architecture technique, le
 </td>
 <td valign="top" width="50%">
 
-**Posture & Accompagnement**
+**🤝 Posture & Accompagnement**
 - Vision applicative, systémique et métier
 - Mentorat & évaluation technique
 - Revue d’architecture
@@ -103,26 +86,36 @@ Mon périmètre couvre la conception applicative, l’architecture technique, le
 
 ---
 
-## Focus IA — 2026
+## 🤖 Focus IA — 2026
 
 J’intègre l’IA de façon **pragmatique et mesurable** dans les applications métiers :
 
-![LLM](https://img.shields.io/badge/LLM-Integration-8b5cf6?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-8b5cf6?style=flat-square)
-![OCR](https://img.shields.io/badge/OCR-Extraction%20documentaire-8b5cf6?style=flat-square)
-![Automatisation](https://img.shields.io/badge/Automatisation-Flux%20%26%20Documents-8b5cf6?style=flat-square)
-
----
-
-## Stats GitHub
-
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Yann-Erwann&theme=github-dark&hide_border=true&locale=fr)
+![LLM](https://img.shields.io/badge/LLM-Integration-8b5cf6?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-8b5cf6?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-Extraction%20documentaire-8b5cf6?style=for-the-badge)
+![Automatisation](https://img.shields.io/badge/Automatisation-Flux%20%26%20Documents-8b5cf6?style=for-the-badge)
 
 </div>
 
+---
+
+## 🏆 Trophées
+
 <div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yann-Erwann&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/Yann-Erwann)
+
+</div>
+
+---
+
+## 📊 Stats GitHub
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yann-Erwann&theme=github-dark&hide_border=true&locale=fr)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yann-Erwann&theme=github-compact&hide_border=true&area=true)](https://github.com/Yann-Erwann)
 
@@ -130,7 +123,21 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 
 ---
 
-## Sur ce profil
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yann-Erwann/Yann-Erwann/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yann-Erwann/Yann-Erwann/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Yann-Erwann/Yann-Erwann/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</picture>
+
+</div>
+
+---
+
+## 📁 Sur ce profil
 
 - Projets applicatifs & démonstrateurs SaaS
 - Exemples d’architecture et de clean code
@@ -146,4 +153,4 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=100&section=footer" width="100%" />
