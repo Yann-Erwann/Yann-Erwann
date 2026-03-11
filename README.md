@@ -11,7 +11,7 @@
 
 ---
 
-## 🦹 À propos
+## 👨‍💻 À propos
 
 Tech Lead avec **20+ ans d’expérience**, je conçois et structure des **solutions SaaS** et **applications métiers** pour digitaliser, automatiser et fiabiliser des processus opérationnels.
 
