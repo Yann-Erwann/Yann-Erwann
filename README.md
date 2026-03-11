@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=header&text=Yann-Erwann%20Le%20Calvez&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Tech%20Lead%20%2F%20Lead%20Developer&descSize=16&descAlignY=58" width="100%" />
+
 <div align="center">
 
 # Yann-Erwann Le Calvez
@@ -48,6 +50,7 @@ Mon périmètre couvre la conception applicative, l’architecture technique, le
 
 ## Expertises
 
+<div align="center">
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -96,6 +99,7 @@ Mon périmètre couvre la conception applicative, l’architecture technique, le
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -141,3 +145,5 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 [![Me contacter](https://img.shields.io/badge/Me%20contacter%20sur%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-erwann-le-calvez)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=80&section=footer" width="100%" />
