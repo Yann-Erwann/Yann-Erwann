@@ -104,10 +104,10 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 
 <div align="center">
 
-![LLM](https://img.shields.io/badge/LLM-Integration-8b5cf6?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-8b5cf6?style=for-the-badge)
-![OCR](https://img.shields.io/badge/OCR-Extraction%20documentaire-8b5cf6?style=for-the-badge)
-![Automatisation](https://img.shields.io/badge/Automatisation-Flux%20%26%20Documents-8b5cf6?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Integration-06b6d4?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-06b6d4?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-Extraction%20documentaire-06b6d4?style=for-the-badge)
+![Automatisation](https://img.shields.io/badge/Automatisation-Flux%20%26%20Documents-06b6d4?style=for-the-badge)
 
 </div>
 
@@ -122,7 +122,7 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 ![Disponibilité](https://img.shields.io/badge/Disponibilité-Juin%202026-2da44e?style=for-the-badge&logo=handshake&logoColor=white)
 ![Télétravail](https://img.shields.io/badge/Télétravail-Hybride%20ou%20full%20remote-f59e0b?style=for-the-badge&logo=homeadvisor&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Tech%20Lead%20%2F%20Architecture-f59e0b?style=for-the-badge&logo=dependabot&logoColor=white)
-![IA](https://img.shields.io/badge/IA-Intégration%20pragmatique-8b5cf6?style=for-the-badge&logo=openai&logoColor=white)
+![IA](https://img.shields.io/badge/IA-Intégration%20pragmatique-06b6d4?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
