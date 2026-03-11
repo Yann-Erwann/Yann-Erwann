@@ -100,7 +100,7 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 
 ---
 
-## � Repères
+## 🏅 Repères
 
 <div align="center">
 
@@ -125,7 +125,7 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 
 ---
 
-## � Historique de contributions
+## 📈 Historique de contributions
 
 <div align="center">
 
