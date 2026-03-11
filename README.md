@@ -114,7 +114,17 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 </div>
 
 ---
+## 📊 Stats GitHub
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yann-Erwann&theme=github-dark&hide_border=true&locale=fr)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yann-Erwann&theme=github-compact&hide_border=true&area=true)](https://github.com/Yann-Erwann)
+
+</div>
+
+---
 ##  Historique de contributions
 
 <div align="center">
