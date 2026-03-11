@@ -131,7 +131,11 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yann-Erwann&theme=github-dark&hide_border=true&locale=fr)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Yann-Erwann&theme=github-dark&hide_border=true&locale=fr" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Yann-Erwann&theme=github&hide_border=true&locale=fr" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Yann-Erwann&theme=github-dark&hide_border=true&locale=fr" />
+</picture>
 
 </div>
 
