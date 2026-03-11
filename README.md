@@ -22,18 +22,22 @@ Mon périmètre couvre la conception applicative, l’architecture technique, le
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="33%">
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,postgres&theme=dark" /><br/>
-<b>Backend :</b> Java · Spring Boot · Node.js · NestJS · PostgreSQL
-
-<br/>
-
+<b>Backend</b><br/>Java · Spring Boot · Node.js · NestJS · PostgreSQL
+</td>
+<td align="center" width="33%">
 <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js&theme=dark" /><br/>
-<b>Frontend :</b> Angular · React · Next.js · TypeScript · JavaScript
-
-<br/>
-
+<b>Frontend</b><br/>Angular · React · Next.js · TypeScript · JavaScript
+</td>
+<td align="center" width="33%">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,git,linux&theme=dark" /><br/>
-<b>DevOps :</b> Docker · Kubernetes · Terraform · GitHub Actions · Git · Linux
+<b>DevOps</b><br/>Docker · Kubernetes · Terraform · GitHub Actions · Git · Linux
+</td>
+</tr>
+</table>
 
 </div>
 
