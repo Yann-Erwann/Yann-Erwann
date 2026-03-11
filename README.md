@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=Tech+Lead+%2F+Lead+Developer;Clean+Architecture+%7C+DevSecOps;20%2B+ans+d%27exp%C3%A9rience+en+IT;SaaS+%7C+Applications+m%C3%A9tiers+%7C+Modernisation+SI)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yann--Erwann%20Le%20Calvez-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-erwann-le-calvez)
-![Profile views](https://komarev.com/ghpvc/?username=Yann-Erwann&style=flat-square&color=1f6feb&label=Visites)
 
 </div>
 
@@ -106,7 +105,7 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 <div align="center">
 
 ![Expérience](https://img.shields.io/badge/Expérience-20%2B%20ans-1f6feb?style=for-the-badge&logo=clockify&logoColor=white)
-![Contributions](https://img.shields.io/badge/Contributions%20GitHub-857%2B-2da44e?style=for-the-badge&logo=github&logoColor=white)
+![Localisation](https://img.shields.io/badge/Localisation-France-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Tech%20Lead%20%2F%20Architecture-f59e0b?style=for-the-badge&logo=dependabot&logoColor=white)
 ![IA](https://img.shields.io/badge/IA-Intégration%20pragmatique-8b5cf6?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -126,7 +125,7 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 
 ---
 
-## 🐍 Contribution Snake
+## � Historique de contributions
 
 <div align="center">
 
