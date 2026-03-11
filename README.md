@@ -23,8 +23,16 @@ Mon périmètre couvre la conception applicative, l’architecture technique, le
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres&theme=dark" />
+
+**Backend :** Java · Spring Boot · Node.js · PostgreSQL
+
 <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,js&theme=dark" />
+
+**Frontend :** Angular · React · Next.js · TypeScript · JavaScript
+
 <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux&theme=dark" />
+
+**DevOps :** Docker · GitHub Actions · Git · Linux
 
 </div>
 
@@ -106,7 +114,7 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 
 ![Expérience](https://img.shields.io/badge/Expérience-20%2B%20ans-1f6feb?style=for-the-badge&logo=clockify&logoColor=white)
 ![Localisation](https://img.shields.io/badge/Localisation-Rennes%2C%20Bretagne-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Disponibilité](https://img.shields.io/badge/Disponibilité-Ouvert%20aux%20opportunités-2da44e?style=for-the-badge&logo=handshake&logoColor=white)
+![Disponibilité](https://img.shields.io/badge/Disponibilité-Juin%202026-2da44e?style=for-the-badge&logo=handshake&logoColor=white)
 ![Télétravail](https://img.shields.io/badge/Télétravail-Hybride%20ou%20full%20remote-f59e0b?style=for-the-badge&logo=homeadvisor&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Tech%20Lead%20%2F%20Architecture-f59e0b?style=for-the-badge&logo=dependabot&logoColor=white)
 ![IA](https://img.shields.io/badge/IA-Intégration%20pragmatique-8b5cf6?style=for-the-badge&logo=openai&logoColor=white)
