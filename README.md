@@ -105,7 +105,9 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 <div align="center">
 
 ![Expérience](https://img.shields.io/badge/Expérience-20%2B%20ans-1f6feb?style=for-the-badge&logo=clockify&logoColor=white)
-![Localisation](https://img.shields.io/badge/Localisation-France-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Localisation](https://img.shields.io/badge/Localisation-Rennes%2C%20Bretagne-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Disponibilité](https://img.shields.io/badge/Disponibilité-Ouvert%20aux%20opportunités-2da44e?style=for-the-badge&logo=handshake&logoColor=white)
+![Télétravail](https://img.shields.io/badge/Télétravail-Hybride%20ou%20full%20remote-f59e0b?style=for-the-badge&logo=homeadvisor&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Tech%20Lead%20%2F%20Architecture-f59e0b?style=for-the-badge&logo=dependabot&logoColor=white)
 ![IA](https://img.shields.io/badge/IA-Intégration%20pragmatique-8b5cf6?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -113,19 +115,7 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 
 ---
 
-## 📊 Stats GitHub
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yann-Erwann&theme=github-dark&hide_border=true&locale=fr)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yann-Erwann&theme=github-compact&hide_border=true&area=true)](https://github.com/Yann-Erwann)
-
-</div>
-
----
-
-## 📈 Historique de contributions
+##  Historique de contributions
 
 <div align="center">
 
@@ -141,11 +131,13 @@ J’intègre l’IA de façon **pragmatique et mesurable** dans les applications
 
 ## 📁 Sur ce profil
 
-- Projets applicatifs & démonstrateurs SaaS
-- Exemples d’architecture et de clean code
-- Travaux autour de la qualité logicielle et du DevSecOps
-- Cas d’usage : digitalisation, automatisation, modernisation SI
-- Réflexions sur la sécurité by design et l’industrialisation
+La majorité de mon activité se déroule sur des **dépôts privés professionnels**.
+Je publie progressivement ici des démonstrateurs et exemples :
+
+- Démonstrateurs d'architecture (Clean Architecture, API REST, microservices)
+- Cas d'usage IA : intégration LLM, RAG, extraction documentaire
+- Outillage DevSecOps & industrialisation CI/CD
+- Exemples de qualité logicielle et de structuration applicative
 
 ---
 
