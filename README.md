@@ -24,6 +24,7 @@ Mon périmètre couvre la conception applicative, l’architecture technique, le
 - Outils internes pour structurer et fiabiliser les opérations
 - APIs et socles applicatifs pour systèmes existants
 - Automatisations de flux métier et traitements documentaires
+- Design systems et socles UI pour renforcer la cohérence applicative
 - Briques d’IA appliquée lorsque le gain métier est réel
 
 ---
