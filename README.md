@@ -18,6 +18,16 @@ Mon périmètre couvre la conception applicative, l’architecture technique, le
 
 ---
 
+## Ce que je construis
+
+- Applications métiers sur mesure
+- Outils internes pour structurer et fiabiliser les opérations
+- APIs et socles applicatifs pour systèmes existants
+- Automatisations de flux métier et traitements documentaires
+- Briques d’IA appliquée lorsque le gain métier est réel
+
+---
+
 ## 🛠️ Stack technique
 
 <div align="center">
