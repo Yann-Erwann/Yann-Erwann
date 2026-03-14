@@ -12,7 +12,7 @@
 
 ## 👨‍💻 À propos
 
-**Tech Lead** & **Développeur sénior** avec **20+ ans d’expérience**, je conçois et structure des **solutions SaaS** destinées à **digitaliser**, **automatiser** et **fiabiliser** des **processus opérationnels**.
+**Tech Lead** & **Développeur senior** avec **20+ ans d’expérience**, je conçois et structure des **applications métiers** et des **solutions logicielles sur mesure** destinées à **digitaliser**, **automatiser** et **fiabiliser** des **processus opérationnels**.
 
 Mon périmètre couvre la conception applicative, l’architecture technique, le développement full-stack, la qualité logicielle, la modernisation de SI existants — et l’alignement des choix techniques avec les besoins métier.
 
